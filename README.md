@@ -62,4 +62,4 @@ When I'm not writing code, I like to ride a mountain bike or snowboard.
 - Email: pav.n95@gmail.com
 - Telegram: [@Pav-nk](https://t.me/Pav_nk)
 - Discord: Pavel-nk95#8701
-- LinkedIn:  [pavel-nk](https://www.linkedin.com/in/pavel-nk/)
+- LinkedIn:  [Pavel-nk](https://www.linkedin.com/in/pavel-nk/)
