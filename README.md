@@ -1,4 +1,4 @@
-### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+#### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 Welcome to my profile!
 My name is Pavel.
@@ -9,17 +9,17 @@ When I'm not writing code, I like to ride a mountain bike or snowboard.
 
 ----
 
-### 👷 Check out what I'm currently working on:
+#### 👷 Check out what I'm currently working on:
 
 - [pavel-nk95/hexlet-chat](https://github.com/Pavel-nk95/frontend-project-lvl4) - Simplified copy of Slack chat.
 
-### 🌱 My latest projects:
+#### 🌱 My latest projects:
 
 - [pavel-nk95/brain-games](https://github.com/Pavel-nk95/brain-games) - 5 math games in the console with a single engine.
 - [pavel-nk95/difference-generator](https://github.com/Pavel-nk95/difference-generator) - is a console application that compares 2 configuration files and displays the differences between them.
 - [pavel-nk95/RSS-reader](https://github.com/Pavel-nk95/RSS-reader) - is a browser-based single-page application that implements MVC in pure JavaScript.
 
-### 🛠️ Some tools i use:
+#### 🛠️ Some tools i use:
 
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -56,7 +56,7 @@ When I'm not writing code, I like to ride a mountain bike or snowboard.
     <img src="https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=Replit&logoColor=white"/>
 <p>
 
-### 📫 How to reach me:
+#### 📫 How to reach me:
 
 - Phone: +7-(995)-502-94-00
 - Email: pav.n95@gmail.com
