@@ -7,7 +7,7 @@ JavaScript is my first language.
 I live near Moscow, Russia.  
 When I'm not writing code, I like to ride a mountain bike or snowboard.  
 
----
+--
 
 ### 👷 Check out what I'm currently working on:
 
