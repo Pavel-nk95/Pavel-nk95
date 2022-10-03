@@ -63,4 +63,3 @@ When I'm not writing code, I like to ride a mountain bike or snowboard.
 - Telegram: [@Pav-nk](https://t.me/Pav_nk)
 - Discord: Pavel-nk95#8701
 - LinkedIn:  [pavel-nk](https://www.linkedin.com/in/pavel-nk/)
-- Codewars:  [Pavel-nk95](https://www.codewars.com/users/Pavel-nk95)
