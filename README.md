@@ -59,5 +59,5 @@ When I'm not writing code, I like to ride a mountain bike or snowboard.
 - Phone: +7-(995)-502-94-00
 - Email: pav.n95@gmail.com
 - Telegram: [@Pav-nk](https://t.me/Pav_nk)
-- Discord: Pavel-nk95#8701
+- Discord: Pav_nk#8701
 - LinkedIn:  [Pavel-nk](https://www.linkedin.com/in/pavel-nk/)
